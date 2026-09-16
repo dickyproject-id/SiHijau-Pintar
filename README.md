@@ -153,4 +153,4 @@ File konfigurasi sensitif dan API key telah diamankan sesuai standar:
 - API keys (Gemini, Cloudinary) dikelola secara aman menggunakan `flutter_dotenv`.
 
 ---
-*Dibuat oleh [Prasda Destriyana] - Terbuka untuk peluang kerja!*
+*Dibuat oleh Muhammad Dicky Adicandra*
