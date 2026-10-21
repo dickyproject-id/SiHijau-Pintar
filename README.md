@@ -298,6 +298,6 @@ lib/
 
 <div align="center">
 
-**© 2025 SiHijau Pintar — Muhammad Dicky Adicandra**
+**© 2026 SiHijau Pintar — Muhammad Dicky Adicandra**
 
 </div>
